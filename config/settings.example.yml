@@ -1,0 +1,6 @@
+port: 9293
+verboseLogging: "false"
+private: "false"
+username: "ruby"
+password: "ruby"
+mainURL: "http://localhost:9293/"
